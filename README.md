@@ -1,5 +1,5 @@
 
-# Intelligent Scenario Lifecycle (ISLM) GenAI Tutorial Samples
+# Intelligent Scenario Lifecycle Management (ISLM) GenAI Tutorial Samples
 
 ## Description
 <!-- Please include SEO-friendly description -->
