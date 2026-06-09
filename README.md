@@ -1,4 +1,4 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/abap-islm-tutorial-samples)](https://api.reuse.software/info/github.com/SAP-samples/abap-reuse-tutorial-samples)
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/abap-islm-tutorial-samples)](https://api.reuse.software/info/github.com/SAP-samples/abap-islm-tutorial-samples)
 
 
 # Intelligent Scenario Lifecycle Management (ISLM) GenAI Tutorial Samples
